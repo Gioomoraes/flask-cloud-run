@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte de um curso prático da Google sobre us
 
 O objetivo foi criar uma aplicação simples em Python usando Flask, integrar com a API do Gemini e realizar o deploy utilizando o Google Cloud Run.
 
-> 💡 Este repositório tem caráter educacional e foi criado para fins de estudo, prática e aprendizado.
+ Este repositório tem caráter educacional e foi criado para fins de estudo, prática e aprendizado.
 
 ---
 
